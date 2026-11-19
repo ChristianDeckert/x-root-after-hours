@@ -4,4 +4,4 @@ A point-and-click office escape game in the browser. Play it here: https://chris
 
 Right click looks at things. That's the most important click in the game.
 
-This repo only holds the built game. Build 2e90c07.
+This repo only holds the built game. Build 18e8b3a.
