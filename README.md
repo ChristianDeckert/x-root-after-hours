@@ -4,4 +4,4 @@ Ein kostenloses deutschsprachiges Point-and-Click-Adventure im Browser: https://
 
 Rechtsklick schaut Dinge an. Der wichtigste Klick im Spiel.
 
-Dieses Repository enthält nur das gebaute Spiel. Build 8ed5fed.
+Dieses Repository enthält nur das gebaute Spiel. Build 37dabc8.
