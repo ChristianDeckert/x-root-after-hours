@@ -1,7 +1,7 @@
-# x-root After Hours – test build
+# x-root After Hours
 
-A point-and-click office escape game in the browser. Play it here: https://christiandeckert.github.io/x-root-after-hours/
+Ein kostenloses deutschsprachiges Point-and-Click-Adventure im Browser: https://christiandeckert.github.io/x-root-after-hours/
 
-Right click looks at things. That's the most important click in the game.
+Rechtsklick schaut Dinge an. Der wichtigste Klick im Spiel.
 
-This repo only holds the built game. Build a6e61e4.
+Dieses Repository enthält nur das gebaute Spiel. Build 8ed5fed.

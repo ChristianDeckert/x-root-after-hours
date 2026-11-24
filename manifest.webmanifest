@@ -1,7 +1,7 @@
 {
   "name": "x-root After Hours",
   "short_name": "After Hours",
-  "description": "An Office Escape Game",
+  "description": "Ein kostenloses deutschsprachiges Office-Escape-Adventure im Browser.",
   "lang": "de",
   "start_url": ".",
   "scope": ".",
